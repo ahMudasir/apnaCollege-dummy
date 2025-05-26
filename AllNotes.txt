@@ -52,3 +52,17 @@ Init Command
  git branch -M main (ro rename branch)
  git push origin main
  ---------------------------------------------------------------------------------------------------------
+ 
+ Git Branches
+-------------------------------------------------------------
+
+Branch Commands:
+
+git branch (to check branch)
+git branch -M main (to rename branch)
+git checkout "branchName" (to navigate)
+git checkout -b <new branchName> (create new branch)
+git branch -d <branchName>  (delte branch name)
+------------------------------------------------------------------
+
+
