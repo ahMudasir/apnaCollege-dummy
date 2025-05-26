@@ -1,0 +1,42 @@
+Git and GitHub
+--------------------------------
+Versioin control system is a tool that helps to track changes in code 
+git is a version control system. It is a popular, free and open source , fast and scalable.
+
+Create a new repository : apnacollege-demo
+Make our first commit 
+-----------------------------------------------------------------------------------------------
+Install Git 
+configure Git:
+-----------------------------------------------------------------------------------------------
+git config--global user.name "myname"
+git config--global user.mail "mailid"
+git config--list
+---------------------------------------------------------------------------------------------------
+Basic commands of git
+Clone: cloning a repository on our local machine
+git clone <somelink>
+
+use cd: change directory or path 
+and use ls: lists
+
+status: Display the status of code
+git status
+
+untracked: new files that git does not yet track
+modified: changed
+staged: file is redy to be commited
+unmodified: unchanged
+
+Add and commit
+------------------------------------------------------------------------------------------------------
+Add: adds mew or changed files in your working directory to the git staging area
+git add<file name>
+or git add .   add all the files in one go.
+
+Commit: it is the record of change
+git commit -m "some message"
+-----------------------------------------------------------------------------------------------------
+Git Push Command
+git push -u origin main or git push origin main:   add local repository to remote repository
+--------------------------------------------------------------------------------------------------------
