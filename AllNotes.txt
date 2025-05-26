@@ -64,5 +64,9 @@ git checkout "branchName" (to navigate)
 git checkout -b <new branchName> (create new branch)
 git branch -d <branchName>  (delte branch name)
 ------------------------------------------------------------------
+Pull command: used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+
+git pull origin main
+------------------------------------------------------------------
 
 
