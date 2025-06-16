@@ -17,9 +17,17 @@ Basic commands of git
 Clone: cloning a repository on our local machine
 git clone <somelink>
 
+CD commands
+-------------------------------------------------------------
 use cd: change directory or path 
 and use ls: lists
+make a folder use 
+mkdir <folder name>
+change folder use 
+cd ./folder name
+cd .. <back to original folder>
 
+--------------------------------------------------------------------
 status: Display the status of code
 git status
 
